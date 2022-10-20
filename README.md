@@ -17,4 +17,4 @@
 
 - ⚡ Fun fact **I am obsessed with space, the universe, celestial events.**
 
-- Published Author on Amazon: [/author/caraveo]((https://www.amazon.com/author/caraveo]))
+- Published Author on Amazon: [/author/caraveo](https://www.amazon.com/author/caraveo)
