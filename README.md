@@ -33,12 +33,12 @@
 | <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/Ubuntu/white" /></a> | Ubuntu| <a href="#"><img src="https://progress-bar.dev/70/" /></a> |  Ubuntu is my Fav Distro |
 | <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/stackoverflow/white" /></a> | Stack Overflow| <a href="#"><img src="https://progress-bar.dev/45/" /></a> | Need to use this more.. |
 | <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/Node.js/white" /></a> | Node.js| <a href="#"><img src="https://progress-bar.dev/10/" /></a> | I can npm create... |
-| <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/React/white" /></a> | React| <a href="#"><img src="https://progress-bar.dev/13/" /></a> |
-| <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/csharp/white" /></a> | C Sharp| <a href="#"><img src="https://progress-bar.dev/85/" /></a> |
-| <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/apache/white" /></a> | Apache| <a href="#"><img src="https://progress-bar.dev/32/" /></a> |
-| <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/git/white" /></a> | Git| <a href="#"><img src="https://progress-bar.dev/40/" /></a> |
-| <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/github/white" /></a> | GitHub| <a href="#"><img src="https://progress-bar.dev/60/" /></a> |
-| <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/twitch/white" /></a> | Twitch| <a href="#"><img src="https://progress-bar.dev/30/" /></a> |
-| <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/youtube/white" /></a> | YouTube| <a href="#"><img src="https://progress-bar.dev/40/" /></a> |
-| <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/ios/white" /></a> | iOS| <a href="#"><img src="https://progress-bar.dev/90/" /></a> |
-| <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/xcode/white" /></a> | xCode| <a href="#"><img src="https://progress-bar.dev/60/" /></a> |
+| <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/React/white" /></a> | React| <a href="#"><img src="https://progress-bar.dev/13/" /></a> | npm create-react-app woo
+| <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/csharp/white" /></a> | C Sharp| <a href="#"><img src="https://progress-bar.dev/85/" /></a> | Scripting in C# $$$
+| <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/apache/white" /></a> | Apache| <a href="#"><img src="https://progress-bar.dev/32/" /></a> | I can install Apache :}
+| <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/git/white" /></a> | Git| <a href="#"><img src="https://progress-bar.dev/40/" /></a> | Git commit all !!!
+| <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/github/white" /></a> | GitHub| <a href="#"><img src="https://progress-bar.dev/60/" /></a> | amazing.
+| <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/twitch/white" /></a> | Twitch| <a href="#"><img src="https://progress-bar.dev/30/" /></a> | Chat me RexKidTTV
+| <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/youtube/white" /></a> | YouTube| <a href="#"><img src="https://progress-bar.dev/40/" /></a> | Requires work...
+| <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/ios/white" /></a> | iOS| <a href="#"><img src="https://progress-bar.dev/90/" /></a> | iPhone Life
+| <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/xcode/white" /></a> | xCode| <a href="#"><img src="https://progress-bar.dev/60/" /></a> | I launched an iOS Game!
