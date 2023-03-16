@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on [Ziawe.com](https://ziawe.com)
 
-- 📝 I regularly write articles on [sparkandwave.com](https://sparkandwave.com)
-
 - 💬 Ask me about **Augmented Reality**
 
 - 📫 How to reach me **jon@ziawe.com**
