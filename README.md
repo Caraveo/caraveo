@@ -20,7 +20,12 @@
 
 - Published Author on Amazon: [/author/caraveo](https://www.amazon.com/author/caraveo)
 
-## Concepts and Technologies I am Learning
+
+
+<details>
+ <summary><h3>👨‍💻Concepts and Technologies I am Learning</h3></summary>
+  
+  These are the technologies, I am familiar with...currently learning or have "Mastered". :]
 
 | | Technology | Progress | Explanation
 | :-- | :-- | :-- | :-- |
