@@ -27,6 +27,7 @@
 
 | | Technology | Progress | Explanation
 | :-- | :-- | :-- | :-- |
+| <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/Python/white" /></a> | Python3| <a href="#"><img src="https://progress-bar.dev/20/" /></a> |    Python3 xD |
 | <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/HTML5/white" /></a> | HTML5| <a href="#"><img src="https://progress-bar.dev/99/" /></a> |    Master of HTML |
 | <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/CSS3/white" /></a> | CSS3| <a href="#"><img src="https://progress-bar.dev/90/" /></a> | I can Position a Div :) |
 | <a href="#"><img height="22" width="22" src="https://cdn.simpleicons.org/Unity/white" /></a> | Unity| <a href="#"><img src="https://progress-bar.dev/75/" /></a> | Love Game Development :D |
