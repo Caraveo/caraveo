@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **Augmented Reality**
 
+- ❤️ I write on my blog at [SparkandWave.com](https://www.sparkandwave.com/)
+
 - 📫 How to reach me **jon@ziawe.com**
 
 - ⚡ Fun fact **I am obsessed with space, the universe, celestial events.**
