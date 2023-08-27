@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Augmented Reality**
 
-- ❤️ I write on my blog at [JonCaraveo.com](https://www.JonCaraveo.com/)
-
 - 🌠 I'm working on MMO Game [Echo](https://github.com/caraveo/echo)
 
 - 📫 How to reach me **jon@ziawe.com**
