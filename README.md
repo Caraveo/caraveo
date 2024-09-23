@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/johnnycaraveo" target="blank"><img src="https://img.shields.io/twitter/follow/johnnycaraveo?logo=twitter&style=for-the-badge" alt="johnnycaraveo" /></a> </p>
 
-- 👨🏽‍💻 I’m creating my own code/language [x](https://github.com/caraveo/x)  - [xD](https://github.com/caraveo/xD) - [x](https://code.joncaraveo.com) 
+- 👨🏽‍💻 I’m creating my own code/language [x GitHub](https://github.com/caraveo/x)  - [x Documentation](https://github.com/caraveo/xD) - [x Doc Website](https://code.joncaraveo.com) 
 
 - 🔭 I’m currently working on [Zia](https://github.com/caraveo/zia)
 
