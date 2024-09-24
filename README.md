@@ -17,3 +17,5 @@
 - 📫 How to reach me **jon@ziawe.com**
 
 - ⚡ Fun fact **I am obsessed with space, the universe, celestial events.**
+
+- Studying ***CODE LAW*** Legal, Development, and empowerment of Beuracracy towards Developers! 
