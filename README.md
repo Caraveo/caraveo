@@ -18,13 +18,11 @@
 
 - ⚡ Fun fact **I am obsessed with space, the universe, celestial events.**
 
-- Studying ***CODE LAW*** Legal, Development, and empowerment of Beuracracy towards Developers!
 
+  
 I have Faith in People. I Believe in order to succeed in life you must have principles, believe in yourself, have a vision, and be a good person. No one is perfect(prime example right here.) You must have a healthy sense of humor. Enjoy life's Obstacles, and Git push! 👨🏽‍💻
   
 - Principles.
 - Believe
 - Vision
 - Be a Good Person!
-
-  Zia Soon!
