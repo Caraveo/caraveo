@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Zia](https://github.com/caraveo/zia)
 
-- 👯 I’m looking to collaborate on [Ziawe.com](https://ziavision.com)
+- 👯 I’m looking to collaborate on [ZiaVision.com](https://ziavision.com)
 
 - 💬 Ask me about **Spatial Reality**
 
