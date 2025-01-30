@@ -4,11 +4,9 @@
 
 - 🔭 I’m currently working on [Zia](https://github.com/caraveo/zia)
 
-- 👯 I’m looking to collaborate on [Ziawe.com](https://ziawe.com)
+- 👯 I’m looking to collaborate on [Ziawe.com](https://ziavision.com)
 
 - 💬 Ask me about **Spatial Reality**
-
-- 📫 How to reach me **jon@ziawe.com**
 
 - ⚡ Fun fact **I am obsessed with space, the universe, celestial events.**
 
