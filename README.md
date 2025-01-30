@@ -8,6 +8,9 @@
 
 - 💬 Ask me about **Spatial Reality**
 
+- Art. Art has been a staple in my journey, allowing me to express the complexities of human identity
+through bold, evocative paintings. I think of myself as a curious individual, bold, a lost gem in the wild. Check out my paintings at: [JonCaraveo.com](https://JonCaraveo.com)
+
 - ⚡ Fun fact **I am obsessed with space, the universe, celestial events.**
 
 
