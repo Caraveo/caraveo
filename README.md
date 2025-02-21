@@ -18,6 +18,17 @@ A **Platform Architect** in software engineering is responsible for (3e Triple-E
 | **Shipping Mentality**        | Relentlessly focused on **execution**, minimizing friction, and driving **continuous delivery across platforms**. |
 | **Native Development**        | Architecting and optimizing **native solutions** (*iOS, Android, macOS, Windows, Linux, Consoles*) while balancing **performance, maintainability, and user experience**. |
 
+## Frameworks/Languages I Admire:
+    Unity3D
+    Xcode
+    Python
+
+## Currently Learning:
+    C++
+    Typescript
+
+I am NOT an expert in all things... I would like to learn about Assembly Code, Hardware Engineering, and how to Deliver the best Products in the World! ♥️
+
 ## Current Strategies:
 🔭 I’m currently working on [Zia](https://github.com/caraveo/zia)
 
