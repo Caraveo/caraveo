@@ -4,7 +4,7 @@
 
 # Platform Architect in Software Engineering
 
-A **Platform Architect** in software engineering is responsible for **end-to-end execution** of a **software platform**, encompassing **full-stack web** and **native software development**. They go beyond traditional **full-stack development** by focusing on **automation, scaffolding, and project management** to streamline **shipping** and **launching** applications across multiple environments. Their role is heavily centered on **execution**, ensuring that ideas are not just planned but **delivered** at scale.
+A **Platform Architect** in software engineering is responsible for (3e Triple-E) **end-to-end execution** of a **software platform**, encompassing **full-stack web** and **native software development**. They go beyond traditional **full-stack development** by focusing on **automation, scaffolding, and project management** to streamline **shipping** and **launching** applications across multiple environments. Their role is heavily centered on **execution**, ensuring that ideas are not just planned but **delivered** at scale.
 
 ## Core Responsibilities of a Platform Architect
 
