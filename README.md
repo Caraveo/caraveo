@@ -48,4 +48,5 @@ through bold, evocative paintings. I think of myself as a curious individual, bo
 - Believe
 - Vision
 - Be a Good Person!
+- FIGHT for FREEDOM!
 
