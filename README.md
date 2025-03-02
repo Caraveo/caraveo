@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Jon</h1>
-<h3 align="center">I’m a Platform Architect</h3>
+<h3 align="center">I’m a Systems Architect</h3>
 
-# Platform Architect in Software Engineering
+# Systems Architect in Software Engineering
 
-A **Platform Architect** in software engineering is responsible for (3e Triple-E) **end-to-end execution** of a **software platform**, encompassing **full-stack web** and **native software development**. They go beyond traditional **full-stack development** by focusing on **automation, scaffolding, and project management** to streamline **shipping** and **launching** applications across multiple environments. Their role is heavily centered on **execution**, ensuring that ideas are not just planned but **delivered** at scale.
+A **Systems Architect** in software engineering is responsible for (3e Triple-E) **end-to-end execution** of a **software platform**, encompassing **full-stack web** and **native software development**. They go beyond traditional **full-stack development** by focusing on **automation, scaffolding, and project management** to streamline **shipping** and **launching** applications across multiple environments. Their role is heavily centered on **execution**, ensuring that ideas are not just planned but **delivered** at scale.
 
 ## Core Responsibilities of a Platform Architect
 
@@ -17,15 +17,6 @@ A **Platform Architect** in software engineering is responsible for (3e Triple-E
 | **Operational Focus**         | Ensuring **high availability, reliability, and performance** of the **entire software platform**. |
 | **Shipping Mentality**        | Relentlessly focused on **execution**, minimizing friction, and driving **continuous delivery across platforms**. |
 | **Native Development**        | Architecting and optimizing **native solutions** (*iOS, Android, macOS, Windows, Linux, Consoles*) while balancing **performance, maintainability, and user experience**. |
-
-## Frameworks/Languages I Admire:
-    Unity3D
-    Xcode
-    Python
-
-## Currently Learning:
-    C++
-    Typescript
 
 I am NOT an expert in all things... I would like to learn about Assembly Code, Hardware Engineering, and how to Deliver the best Products in the World! ♥️
 
@@ -47,6 +38,4 @@ through bold, evocative paintings. I think of myself as a curious individual, bo
 - Principles.
 - Believe
 - Vision
-- Be a Good Person!
-- FIGHT for FREEDOM!
 
