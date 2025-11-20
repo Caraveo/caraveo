@@ -39,3 +39,15 @@ through bold, evocative paintings. I think of myself as a curious individual, bo
 - Believe
 - Vision
 
+
+“He who seeks truth shall find beauty.
+He who seeks beauty shall find vanity.
+He who seeks order shall find gratification.
+He who seeks gratification shall be disappointed.
+He who considers himself the servant of his fellow beings shall find the joy of self‑expression.
+He who seeks self‑expression shall fall into the pit of arrogance.
+Arrogance is incompatible with nature.
+Through nature the nature of the universe and the nature of man we shall seek truth.
+If we seek truth, we shall find beauty.” ~ Moshe Safdie
+
+![InTheAir](InTheAir.png)
