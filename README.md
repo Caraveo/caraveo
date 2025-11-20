@@ -20,11 +20,6 @@ A **Systems Architect** in software engineering is responsible for (3e Triple-E)
 
 I am NOT an expert in all things... I would like to learn about Assembly Code, Hardware Engineering, and how to Deliver the best Products in the World! ♥️
 
-## Current Strategies:
-🔭 I’m currently working on [Zia](https://github.com/caraveo/zia)
-
-👯 I’m looking to collaborate on [ZiaVision.com](https://ziavision.com)
-
 💬 Ask me about **Spatial Reality**
 
   ## Personality:
