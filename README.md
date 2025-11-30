@@ -46,3 +46,38 @@ Through nature the nature of the universe and the nature of man we shall seek tr
 If we seek truth, we shall find beauty.” ~ Moshe Safdie
 
 ![InTheAir](InTheAir.png)
+
+---
+
+## 🚀 Startup Projects
+
+A collection of innovative projects spanning creative tools, financial technology, social networks, renewable energy, blockchain, and AI infrastructure.
+
+| Project | Website | Status | Year | Description |
+|---------|---------|--------|------|-------------|
+| **Odyssey** | [www.Odyssey-writer.com](https://www.Odyssey-writer.com) • [GitHub](https://github.com/Caraveo/odyssey) | 🟢 Active | 2025 | A beautiful macOS SwiftUI writing app designed for novel writing. Odyssey combines node-based organization with AI-powered content generation, featuring a visual canvas for organizing characters, plots, conflicts, and concepts. Supports both Ollama (local) and Mistral AI (cloud) for context-aware content generation. |
+| **MIND** | [artesiamint.com](https://www.artesiamint.com) | 🟢 Active | 2025 | Real-time commodity price tracker providing free access to precious metals, crypto, and energy prices. Features include favorite tracking, price comparisons, advanced charts, and real-time refresh notifications. Built for traders and investors who need instant market insights. |
+| **MUDE** | Coming Soon | 🟡 In Development | 2026 | An innovative social network platform designed to connect creators, artists, and communities. MUDE aims to revolutionize how people share, discover, and engage with content in a decentralized, user-centric environment. |
+| **NM Zia Energy** | [nmziaenergy.com](https://www.nmziaenergy.com) | 🟡 Planned | 2030 | Renewable energy planning platform focused on sustainable infrastructure development. NM Zia Energy provides comprehensive tools for energy planning, resource assessment, and transition strategies for a cleaner future. |
+| **logmic** | [logmic.xyz](https://logmic.xyz) | 🟡 In Development | 2026 | Blockchain-based investment platform enabling transparent, secure, and decentralized investment opportunities. logmic leverages smart contracts and blockchain technology to democratize access to investment markets. |
+| **MUDE APP** | [mudeapp.com](https://www.mudeapp.com/) | 🟢 Active | 2025 | Art certification and authenticity platform using blockchain technology to verify and protect artistic works. MUDE APP provides artists with immutable proof of ownership, provenance tracking, and certification services for their creations. |
+| **AiX Developer** | [aix-developer.com](https://aix-developer.com) | 🟡 In Development | 2026 | AI system for creators and infrastructure in a box. AiX Developer provides comprehensive AI tools, APIs, and infrastructure solutions designed to empower creators with cutting-edge AI capabilities without the complexity of building from scratch. |
+| **Jon Caraveo** | [joncarave.com](https://www.joncarave.com) | 🟢 Active | 2025 | Personal artist website showcasing a collection of bold, evocative paintings that explore the complexities of human identity. A digital gallery space for artistic expression and creative work. |
+
+---
+
+## 📺 YouTube Channels
+
+- **Personal Channel**: [@JonCaraveo](https://www.youtube.com/@JonCaraveo) - Content about technology, art, and creative projects
+- **ZIA Startup Channel**: [@ziawe](https://www.youtube.com/@ziawe) - Startup journey, entrepreneurship, and business insights
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+- **Full-Stack Development**: Web and native applications
+- **Native Platforms**: iOS, macOS, Android, Windows, Linux
+- **AI Integration**: Local (Ollama) and Cloud (Mistral AI) solutions
+- **Blockchain**: Smart contracts, decentralized platforms
+- **Financial Technology**: Real-time data, trading platforms
+- **Renewable Energy**: Planning and infrastructure systems
