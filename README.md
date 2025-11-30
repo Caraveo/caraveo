@@ -78,7 +78,7 @@ A collection of innovative projects spanning creative tools, financial technolog
 
 ## 📺 YouTube Channels
 
-- **Personal Channel**: [@JonCaraveo](https://www.youtube.com/@JonCaraveo) - Content about technology, art, and creative projects
+- **Personal Channel**: [@JonCaraveo](https://www.youtube.com/@JonCaraveo) - Content about art and creative projects
 - **ZIA Startup Channel**: [@ziawe](https://www.youtube.com/@ziawe) - Startup journey, entrepreneurship, and business insights
 
 ---
@@ -86,7 +86,7 @@ A collection of innovative projects spanning creative tools, financial technolog
 ## 🛠️ Tech Stack & Expertise
 
 - **Full-Stack Development**: Web and native applications
-- **Native Platforms**: iOS, macOS, Android, Windows, Linux
+- **Native Platforms**: iOS, macOS, Windows, Linux
 - **AI Integration**: Local (Ollama) and Cloud (Mistral AI) solutions
 - **Blockchain**: Smart contracts, decentralized platforms
 - **Financial Technology**: Real-time data, trading platforms
