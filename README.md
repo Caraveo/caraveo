@@ -69,6 +69,8 @@ A collection of innovative projects spanning creative tools, financial technolog
 | | *Art certification and authenticity platform designed to verify and protect artistic works. MUDE APP provides artists with proof of ownership, provenance tracking, and certification services for their creations.* | | |
 | **AiX Developer** | [aix-developer.com](https://aix-developer.com) | 🟡 In Development | 2026 |
 | | *AI system for creators and infrastructure in a box. AiX Developer provides comprehensive AI tools, APIs, and infrastructure solutions designed to empower creators with cutting-edge AI capabilities without the complexity of building from scratch.* | | |
+| **Core** | [core-linux.org](https://core-linux.org) | 🔴 Build Failed | 2026 |
+| | *Pure kernel distribution for AI workloads built specifically for AIX-DEVELOPER.com. A streamlined, performance-optimized Industrial Edition engineered to handle demanding AI and machine learning tasks. Features minimal overhead architecture, native GPU acceleration (NVIDIA CUDA, AMD ROCm), complete AI development toolchain (TensorFlow, PyTorch, JAX), hardened security, and scalable architecture from single workstations to distributed clusters. Open source and free forever.* | | |
 | **Jon Caraveo** | [joncaraveo.com](https://www.joncaraveo.com) | 🟢 Active | 2025 |
 | | *Personal artist website showcasing a collection of bold, evocative paintings that explore the complexities of human identity. A digital gallery space for artistic expression and creative work.* | | |
 
