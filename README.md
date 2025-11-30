@@ -53,26 +53,99 @@ If we seek truth, we shall find beauty.” ~ Moshe Safdie
 
 A collection of innovative projects spanning creative tools, financial technology, social networks, renewable energy, blockchain, and AI infrastructure.
 
-| Project | Website | Status || Year |
-|--------|---------|--------|--------|------|
-| **Odyssey** | [www.Odyssey-writer.com](https://www.Odyssey-writer.com) • [GitHub](https://github.com/Caraveo/odyssey) | 🟢 Active | 2025 |
-| | *A beautiful macOS SwiftUI writing app designed for novel writing. Odyssey combines node-based organization with AI-powered content generation, featuring a visual canvas for organizing characters, plots, conflicts, and concepts. Supports both Ollama (local) and Mistral AI (cloud) for context-aware content generation.* | | |
-| **MIND** | [artesiamint.com](https://www.artesiamint.com) | 🟢 Active | 2025 |
-| | *Real-time commodity price tracker providing free access to precious metals, crypto, and energy prices. Features include favorite tracking, price comparisons, advanced charts, and real-time refresh notifications. Built for traders and investors who need instant market insights.* | | |
-| **MUDE** | Coming Soon | 🟡 In Development | 2026 |
-| | *An innovative social network platform designed to connect creators, artists, and communities. MUDE aims to revolutionize how people share, discover, and engage with content in a decentralized, user-centric environment.* | | |
-| **NM Zia Energy** | [nmziaenergy.com](https://www.nmziaenergy.com) | 🟡 Planned | 2030 |
-| | *Renewable energy planning platform focused on sustainable infrastructure development. NM Zia Energy provides comprehensive tools for energy planning, resource assessment, and transition strategies for a cleaner future.* | | |
-| **logmic** | [logmic.xyz](https://logmic.xyz) | 🟡 In Development | 2026 |
-| | *Blockchain-based investment platform enabling transparent, secure, and decentralized investment opportunities. logmic leverages smart contracts and blockchain technology to democratize access to investment markets.* | | |
-| **MUDE APP** | [mudeapp.com](https://www.mudeapp.com/) | 🟢 Active | 2025 |
-| | *Art certification and authenticity platform designed to verify and protect artistic works. MUDE APP provides artists with proof of ownership, provenance tracking, and certification services for their creations.* | | |
-| **AiX Developer** | [aix-developer.com](https://aix-developer.com) | 🟡 In Development | 2026 |
-| | *AI system for creators and infrastructure in a box. AiX Developer provides comprehensive AI tools, APIs, and infrastructure solutions designed to empower creators with cutting-edge AI capabilities without the complexity of building from scratch.* | | |
-| **Core** | [core-linux.org](https://core-linux.org) | 🔴 Build Failed | 2026 |
-| | *Pure kernel distribution for AI workloads built specifically for AIX-DEVELOPER.com. A streamlined, performance-optimized Industrial Edition engineered to handle demanding AI and machine learning tasks. Features minimal overhead architecture, native GPU acceleration (NVIDIA CUDA, AMD ROCm), complete AI development toolchain (TensorFlow, PyTorch, JAX), hardened security, and scalable architecture from single workstations to distributed clusters. Open source and free forever.* | | |
-| **Jon Caraveo** | [joncaraveo.com](https://www.joncaraveo.com) | 🟢 Active | 2025 |
-| | *Personal artist website showcasing a collection of bold, evocative paintings that explore the complexities of human identity. A digital gallery space for artistic expression and creative work.* | | |
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Website</th>
+<th>Status</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Odyssey</strong></td>
+<td><a href="https://www.Odyssey-writer.com">www.Odyssey-writer.com</a> • <a href="https://github.com/Caraveo/odyssey">GitHub</a></td>
+<td>🟢 Active</td>
+<td>2025</td>
+</tr>
+<tr>
+<td colspan="4"><em>A beautiful macOS SwiftUI writing app designed for novel writing. Odyssey combines node-based organization with AI-powered content generation, featuring a visual canvas for organizing characters, plots, conflicts, and concepts. Supports both Ollama (local) and Mistral AI (cloud) for context-aware content generation.</em></td>
+</tr>
+<tr>
+<td><strong>MIND</strong></td>
+<td><a href="https://www.artesiamint.com">artesiamint.com</a></td>
+<td>🟢 Active</td>
+<td>2025</td>
+</tr>
+<tr>
+<td colspan="4"><em>Real-time commodity price tracker providing free access to precious metals, crypto, and energy prices. Features include favorite tracking, price comparisons, advanced charts, and real-time refresh notifications. Built for traders and investors who need instant market insights.</em></td>
+</tr>
+<tr>
+<td><strong>MUDE</strong></td>
+<td>Coming Soon</td>
+<td>🟡 In Development</td>
+<td>2026</td>
+</tr>
+<tr>
+<td colspan="4"><em>An innovative social network platform designed to connect creators, artists, and communities. MUDE aims to revolutionize how people share, discover, and engage with content in a decentralized, user-centric environment.</em></td>
+</tr>
+<tr>
+<td><strong>NM Zia Energy</strong></td>
+<td><a href="https://www.nmziaenergy.com">nmziaenergy.com</a></td>
+<td>🟡 Planned</td>
+<td>2030</td>
+</tr>
+<tr>
+<td colspan="4"><em>Renewable energy planning platform focused on sustainable infrastructure development. NM Zia Energy provides comprehensive tools for energy planning, resource assessment, and transition strategies for a cleaner future.</em></td>
+</tr>
+<tr>
+<td><strong>logmic</strong></td>
+<td><a href="https://logmic.xyz">logmic.xyz</a></td>
+<td>🟡 In Development</td>
+<td>2026</td>
+</tr>
+<tr>
+<td colspan="4"><em>Blockchain-based investment platform enabling transparent, secure, and decentralized investment opportunities. logmic leverages smart contracts and blockchain technology to democratize access to investment markets.</em></td>
+</tr>
+<tr>
+<td><strong>MUDE APP</strong></td>
+<td><a href="https://www.mudeapp.com/">mudeapp.com</a></td>
+<td>🟢 Active</td>
+<td>2025</td>
+</tr>
+<tr>
+<td colspan="4"><em>Art certification and authenticity platform designed to verify and protect artistic works. MUDE APP provides artists with proof of ownership, provenance tracking, and certification services for their creations.</em></td>
+</tr>
+<tr>
+<td><strong>AiX Developer</strong></td>
+<td><a href="https://aix-developer.com">aix-developer.com</a></td>
+<td>🟡 In Development</td>
+<td>2026</td>
+</tr>
+<tr>
+<td colspan="4"><em>AI system for creators and infrastructure in a box. AiX Developer provides comprehensive AI tools, APIs, and infrastructure solutions designed to empower creators with cutting-edge AI capabilities without the complexity of building from scratch.</em></td>
+</tr>
+<tr>
+<td><strong>Core</strong></td>
+<td><a href="https://core-linux.org">core-linux.org</a></td>
+<td>🔴 Build Failed</td>
+<td>2026</td>
+</tr>
+<tr>
+<td colspan="4"><em>Pure kernel distribution for AI workloads built specifically for AIX-DEVELOPER.com. A streamlined, performance-optimized Industrial Edition engineered to handle demanding AI and machine learning tasks. Features minimal overhead architecture, native GPU acceleration (NVIDIA CUDA, AMD ROCm), complete AI development toolchain (TensorFlow, PyTorch, JAX), hardened security, and scalable architecture from single workstations to distributed clusters. Open source and free forever.</em></td>
+</tr>
+<tr>
+<td><strong>Jon Caraveo</strong></td>
+<td><a href="https://www.joncaraveo.com">joncaraveo.com</a></td>
+<td>🟢 Active</td>
+<td>2025</td>
+</tr>
+<tr>
+<td colspan="4"><em>Personal artist website showcasing a collection of bold, evocative paintings that explore the complexities of human identity. A digital gallery space for artistic expression and creative work.</em></td>
+</tr>
+</tbody>
+</table>
 
 ---
 
