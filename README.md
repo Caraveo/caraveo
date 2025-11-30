@@ -82,6 +82,15 @@ A collection of innovative projects spanning creative tools, financial technolog
 <td colspan="4"><em>Real-time commodity price tracker providing free access to precious metals, crypto, and energy prices. Features include favorite tracking, price comparisons, advanced charts, and real-time refresh notifications. Built for traders and investors who need instant market insights.</em></td>
 </tr>
 <tr>
+<td><strong><span style="color: #f97316;">XCF</span></strong></td>
+<td><a href="https://expertcreditfinance.com">expertcreditfinance.com</a></td>
+<td>🟡 Alpha</td>
+<td>2025</td>
+</tr>
+<tr>
+<td colspan="4"><em>Fintech startup focused on expert credit and finance solutions. XCF provides innovative financial technology services designed to help individuals and businesses navigate credit management, financial planning, and expert financial guidance.</em></td>
+</tr>
+<tr>
 <td><strong><span style="color: #f59e0b;">MUDE</span></strong></td>
 <td>Coming Soon</td>
 <td>🟡 In Development</td>
