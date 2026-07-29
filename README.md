@@ -35,15 +35,17 @@ through bold, evocative paintings. I think of myself as a curious individual, bo
 - Vision
 
 
-“He who seeks truth shall find beauty.
-He who seeks beauty shall find vanity.
-He who seeks order shall find gratification.
-He who seeks gratification shall be disappointed.
-He who considers himself the servant of his fellow beings shall find the joy of self‑expression.
-He who seeks self‑expression shall fall into the pit of arrogance.
-Arrogance is incompatible with nature.
-Through nature the nature of the universe and the nature of man we shall seek truth.
-If we seek truth, we shall find beauty.” ~ Moshe Safdie
+> *“Do not let your fire go out, spark by irreplaceable spark*
+> *in the hopeless swamps of the not-quite, the not-yet,*
+> *and the not-at-all.*
+>
+> *Do not let the hero in your soul perish in lonely frustration*
+> *for the life you deserved and have never been able to reach.*
+>
+> *The world you desire can be won. It exists.. it is real..*
+> *it is possible.. it's yours.”*
+>
+> — **Ayn Rand**, *Atlas Shrugged*
 
 ![InTheAir](InTheAir.png)
 
