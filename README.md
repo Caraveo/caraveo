@@ -24,7 +24,7 @@ I am NOT an expert in all things... I would like to learn about Assembly Code, H
 
   ## Personality:
 **Art.** Art has been a staple in my journey, allowing me to express the complexities of human identity
-through bold, evocative paintings. I think of myself as a curious individual, bold, a lost gem in the wild. Check out my paintings at: [JonCaraveo.com](https://JonCaraveo.com)
+through bold, evocative paintings. I think of myself as a curious individual, bold, a lost gem in the wild.
 
 ⚡ Fun fact **I am obsessed with space, the universe, celestial events.**
   
@@ -49,119 +49,15 @@ If we seek truth, we shall find beauty.” ~ Moshe Safdie
 
 ---
 
-## 🚀 Startup Projects
+## 🚀 GRID Compute
 
-A collection of innovative projects spanning creative tools, financial technology, social networks, renewable energy, blockchain, and AI infrastructure.
+GRID is a decentralized compute network designed to turn independently operated machines into one shared computational fabric.
 
-<table>
-<thead>
-<tr>
-<th>Project</th>
-<th>Website</th>
-<th>Status</th>
-<th>Year</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong><span style="color: #6366f1;">Odyssey</span></strong></td>
-<td><a href="https://www.Odyssey-writer.com">www.Odyssey-writer.com</a> • <a href="https://github.com/Caraveo/odyssey">GitHub</a></td>
-<td>🟢 Active</td>
-<td>2025</td>
-</tr>
-<tr>
-<td colspan="4"><em>A beautiful macOS SwiftUI writing app designed for novel writing. Odyssey combines node-based organization with AI-powered content generation, featuring a visual canvas for organizing characters, plots, conflicts, and concepts. Supports both Ollama (local) and Mistral AI (cloud) for context-aware content generation.</em></td>
-</tr>
-<tr>
-<td><strong><span style="color: #10b981;">MIND</span></strong></td>
-<td><a href="https://www.artesiamint.com">artesiamint.com</a></td>
-<td>🟢 Active</td>
-<td>2025</td>
-</tr>
-<tr>
-<td colspan="4"><em>Real-time commodity price tracker providing free access to precious metals, crypto, and energy prices. Features include favorite tracking, price comparisons, advanced charts, and real-time refresh notifications. Built for traders and investors who need instant market insights.</em></td>
-</tr>
-<tr>
-<td><strong><span style="color: #f97316;">XCF</span></strong></td>
-<td><a href="https://expertcreditfinance.com">expertcreditfinance.com</a></td>
-<td>🟡 Alpha</td>
-<td>2025</td>
-</tr>
-<tr>
-<td colspan="4"><em>Fintech startup focused on expert credit and finance solutions. XCF provides innovative financial technology services designed to help individuals and businesses navigate credit management, financial planning, and expert financial guidance.</em></td>
-</tr>
-<tr>
-<td><strong><span style="color: #f59e0b;">MUDE</span></strong></td>
-<td>Coming Soon</td>
-<td>🟡 In Development</td>
-<td>2026</td>
-</tr>
-<tr>
-<td colspan="4"><em>An innovative social network platform designed to connect creators, artists, and communities. MUDE aims to revolutionize how people share, discover, and engage with content in a decentralized, user-centric environment.</em></td>
-</tr>
-<tr>
-<td><strong><span style="color: #06b6d4;">NM Zia Energy</span></strong></td>
-<td><a href="https://www.nmziaenergy.com">nmziaenergy.com</a></td>
-<td>🟡 Planned</td>
-<td>2030</td>
-</tr>
-<tr>
-<td colspan="4"><em>Renewable energy planning platform focused on sustainable infrastructure development. NM Zia Energy provides comprehensive tools for energy planning, resource assessment, and transition strategies for a cleaner future.</em></td>
-</tr>
-<tr>
-<td><strong><span style="color: #8b5cf6;">logmic</span></strong></td>
-<td><a href="https://logmic.xyz">logmic.xyz</a></td>
-<td>🟡 In Development</td>
-<td>2026</td>
-</tr>
-<tr>
-<td colspan="4"><em>Blockchain-based investment platform enabling transparent, secure, and decentralized investment opportunities. logmic leverages smart contracts and blockchain technology to democratize access to investment markets.</em></td>
-</tr>
-<tr>
-<td><strong><span style="color: #ec4899;">MUDE APP</span></strong></td>
-<td><a href="https://www.mudeapp.com/">mudeapp.com</a></td>
-<td>🟢 Active</td>
-<td>2025</td>
-</tr>
-<tr>
-<td colspan="4"><em>Art certification and authenticity platform designed to verify and protect artistic works. MUDE APP provides artists with proof of ownership, provenance tracking, and certification services for their creations.</em></td>
-</tr>
-<tr>
-<td><strong><span style="color: #3b82f6;">AiX Developer</span></strong></td>
-<td><a href="https://aix-developer.com">aix-developer.com</a></td>
-<td>🟡 In Development</td>
-<td>2026</td>
-</tr>
-<tr>
-<td colspan="4"><em>AI system for creators and infrastructure in a box. AiX Developer provides comprehensive AI tools, APIs, and infrastructure solutions designed to empower creators with cutting-edge AI capabilities without the complexity of building from scratch.</em></td>
-</tr>
-<tr>
-<td><strong><span style="color: #ef4444;">Core</span></strong></td>
-<td><a href="https://core-linux.org">core-linux.org</a></td>
-<td>🔴 Build Failed</td>
-<td>2026</td>
-</tr>
-<tr>
-<td colspan="4"><em>Pure kernel distribution for AI workloads built specifically for AIX-DEVELOPER.com. A streamlined, performance-optimized Industrial Edition engineered to handle demanding AI and machine learning tasks. Features minimal overhead architecture, native GPU acceleration (NVIDIA CUDA, AMD ROCm), complete AI development toolchain (TensorFlow, PyTorch, JAX), hardened security, and scalable architecture from single workstations to distributed clusters. Open source and free forever.</em></td>
-</tr>
-<tr>
-<td><strong><span style="color: #14b8a6;">Jon Caraveo</span></strong></td>
-<td><a href="https://www.joncaraveo.com">joncaraveo.com</a></td>
-<td>🟢 Active</td>
-<td>2025</td>
-</tr>
-<tr>
-<td colspan="4"><em>Personal artist website showcasing a collection of bold, evocative paintings that explore the complexities of human identity. A digital gallery space for artistic expression and creative work.</em></td>
-</tr>
-</tbody>
-</table>
+Nodes contribute the capacity their operators choose. Useful work is routed to available machines, verified output builds reputation, and operators retain control over power, heat, schedules, and keys.
 
----
+Mesh is the desktop interface for navigating the network. It makes compute addressable by name and connects people to nodes, realms, capacity, and useful work across the fabric.
 
-## 📺 YouTube Channels
-
-- **Personal Channel**: [@JonCaraveo](https://www.youtube.com/@JonCaraveo) - Content about art and creative projects
-- **ZIA Startup Channel**: [@ziawe](https://www.youtube.com/@ziawe) - Startup journey, entrepreneurship, and business insights
+The mission is to build planetary-scale compute without putting it behind the walls of a single datacenter or cloud provider.
 
 ---
 
